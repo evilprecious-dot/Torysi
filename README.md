@@ -1,0 +1,2 @@
+# Torysi
+Python fundamentals
